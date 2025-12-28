@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently creating intreasting projects<br>👯 I’m looking to learn more things<br>🤝 I’m also a student.<br>🌱 I’m currently learning backend <br>💬 Ask me about anything if you need<br>⚡ Fun fact i am not a profosonal.
+🔭 I’m currently creating intreasting projects<br>👯 I’m looking to learn more things<br>🤝 I’m also a student.<br>🌱 I’m currently learning backend <br>💬 Ask me about anything if you need<br>⚡ Fun fact i am not a PROFESSIONAL.
 
 
 ## 🌐 Socials:
