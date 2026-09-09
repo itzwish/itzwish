@@ -1,1 +1,29 @@
-![Metrics](https://metrics.lecoq.io/itzwish?template=classic&habits=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FDhaka)
+<div align="center">
+
+<img src="https://cdn.pfps.gg/banners/24388-951958-bmw.gif" alt="BMW Banner" width="426" height="240" style="border-radius: 15px; object-fit: cover;">
+
+<br><br>
+
+# POV: you stumbled onto my github 🌌
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=435&lines=full-stack+developer;shipping+cool+stuff;locked+in+100%25;always+cooking" alt="Typing SVG" />
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=itzwish&label=profile%20views&color=a970ff&style=for-the-badge)
+
+</div>
+
+---
+
+### 📖 the lore (about me)
+
+```javascript
+const itzwish = {
+  vibe: "no cap, just pure code and chaos",
+  status: "locked in 🔒",
+  dailyQuest: ["building VoltFC ⚽", "breaking production", "surviving on caffeine"],
+  techStack: ["Next.js", "React", "Vue", "TypeScript", "Python", "PHP"],
+  database: ["MySQL", "MongoDB", "MongoDB Atlas"],
+  grassTouched: false // (working on it)
+};
